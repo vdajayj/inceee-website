@@ -1,0 +1,25 @@
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# env files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+### macOS Patch ###
+# iCloud generated files
+*.icloud
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
