@@ -14,7 +14,8 @@
   padding: 10px 20px;
 }
 .qr-image {
-  width: 50px;
+  width: 250px;
+  height: 350px;
 }
 
 #update {
